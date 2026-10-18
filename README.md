@@ -1,4 +1,4 @@
-# Hi, I'm Anu Sarangh 👋
+# Hi, I'm Anu 👋
 
 Data science and full-stack developer who likes building real-time systems, machine learning models and clean, production-ready web apps.
 
